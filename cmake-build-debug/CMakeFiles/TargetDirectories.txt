@@ -1,0 +1,3 @@
+C:/Users/Rafael/CLionProjects/sqroot/cmake-build-debug/CMakeFiles/sqroot.dir
+C:/Users/Rafael/CLionProjects/sqroot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rafael/CLionProjects/sqroot/cmake-build-debug/CMakeFiles/rebuild_cache.dir

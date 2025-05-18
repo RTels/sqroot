@@ -1,0 +1,4 @@
+Equation 1: Roots = 2and x2: 3
+Equation 2: Roots = -1and x2: -1
+Equation 3: No real roots
+Equation 4: No real roots
